@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ridwan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-![ front end developer](https://scontent.fcgp17-1.fna.fbcdn.net/v/t39.30808-6/336876287_1421184881753707_678381636839588168_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEIYR0Ji_NjOU_pJZezgYTR3HNyE7D80xLcc3ITsPzTErBsjZlUB7kwWW1TP-UhWQ_t7J98oyCLMBFLUsXT-qzy&_nc_ohc=tFYSWF5NjLoAX-SdKZK&_nc_ht=scontent.fcgp17-1.fna&oh=00_AfBZ6gfnjN6gSETHIIhPIIYRjUZe4BajpP1eegD4kCtMgw&oe=648B2BD2)
+
+(https://scontent.fcgp17-1.fna.fbcdn.net/v/t39.30808-6/336876287_1421184881753707_678381636839588168_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEIYR0Ji_NjOU_pJZezgYTR3HNyE7D80xLcc3ITsPzTErBsjZlUB7kwWW1TP-UhWQ_t7J98oyCLMBFLUsXT-qzy&_nc_ohc=tFYSWF5NjLoAX-SdKZK&_nc_ht=scontent.fcgp17-1.fna&oh=00_AfBZ6gfnjN6gSETHIIhPIIYRjUZe4BajpP1eegD4kCtMgw&oe=648B2BD2)
 
 i am enthusiastic undergraduate student in the process of mastering programming and front-end development. With a strong desire to learn, also dedicated to expanding my knowledge and skills in order to excel in the field. My focus is on becoming a proficient front-end developer, working with HTML, CSS, and JavaScript to create visually appealing and interactive websites. With a passion for problem-solving and a keen eye for design, i am committed to delivering seamless user experiences. As i,continues my learning journey, i am excited to embrace new technologies and contribute to the ever-evolving world of web development.
 
