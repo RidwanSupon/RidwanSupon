@@ -17,7 +17,5 @@ Skills: C / C++ / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RidwanSupon&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RidwanSupon)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=RidwanSupon)  
 
