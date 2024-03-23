@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ridwan</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate programmer & developer from Bangladesh</h3>
 
 
 i am enthusiastic undergraduate student in the process of mastering programming and front-end development. With a strong desire to learn, also dedicated to expanding my knowledge and skills in order to excel in the field. My focus is on becoming a proficient front-end developer, working with HTML, CSS, and JavaScript to create visually appealing and interactive websites. With a passion for problem-solving and a keen eye for design, i am committed to delivering seamless user experiences. As i,continues my learning journey, i am excited to embrace new technologies and contribute to the ever-evolving world of web development.
