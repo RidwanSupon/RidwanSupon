@@ -1,21 +1,27 @@
-<h1 align="center">Hi 👋, I'm Ridwan</h1>
-<h3 align="center">A passionate programmer & developer from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Ridwan</h1> <h3 align="center">A passionate Front-End Developer and Programming Enthusiast from Bangladesh</h3>
+🌟 About Me
 
+I am an enthusiastic undergraduate student currently mastering programming and front-end development.
+Driven by a strong passion for learning and growth, I am dedicated to expanding my skills in HTML, CSS, and JavaScript to craft visually appealing and interactive websites.
 
-i am enthusiastic undergraduate student in the process of mastering programming and front-end development. With a strong desire to learn, also dedicated to expanding my knowledge and skills in order to excel in the field. My focus is on becoming a proficient front-end developer, working with HTML, CSS, and JavaScript to create visually appealing and interactive websites. With a passion for problem-solving and a keen eye for design, i am committed to delivering seamless user experiences. As i,continues my learning journey, i am excited to embrace new technologies and contribute to the ever-evolving world of web development.
+With a keen eye for design and a love for problem-solving, I strive to create seamless user experiences.
+As I continue my learning journey, I am excited to embrace new technologies and contribute to the ever-evolving world of web development.
 
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+🛠️ Languages and Tools
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> </p>
+🚀 Currently Working On
+Front-End Development Projects
 
-- 🔭 I’m currently working on front end developement 
-- 🌱 I’m currently learning css / javascript 
-- 👯 I’m looking to collaborate on github 
+Strengthening my JavaScript and CSS Skills
 
+🤝 Let's Collaborate
+I’m looking to collaborate on exciting front-end and open-source projects on GitHub!
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RidwanSupon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-ridwanur-r-mazumder-4a8298155/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ridwan_supon/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MdRidwanur14044)  
+📫 Connect with Me
+<p align="left"> <a href="https://github.com/RidwanSupon" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://www.linkedin.com/in/md-ridwanur-r-mazumder-4a8298155/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://www.instagram.com/ridwan_supon/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> <a href="https://twitter.com/MdRidwanur14044" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RidwanSupon&show_icons=true&theme=tokyonight" alt="Ridwan's GitHub stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidwanSupon&layout=compact&theme=tokyonight" alt="Top Languages"/> <img src="https://streak-stats.demolab.com/?user=RidwanSupon&theme=tokyonight" alt="GitHub Streak"/> </p>
+✨ Fun Fact
+I believe that continuous learning and consistent practice lead to mastery! 🚀
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RidwanSupon)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RidwanSupon&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=RidwanSupon)  
-
+🚀 Thank You for Visiting!
