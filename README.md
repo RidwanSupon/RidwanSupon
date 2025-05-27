@@ -1,72 +1,82 @@
-<h1 align="center">Hi 👋, I'm Ridwan</h1>
-<h3 align="center">A Passionate Front-End Developer & Programming Enthusiast from Bangladesh</h3>
+<h1 align="center">✨ Hi there, I'm <span style="color:#38bdf8;">Ridwan</span> 👋</h1>
+<h3 align="center">🚀 Front-End Developer | 💻 Programming Enthusiast | 🌍 From Bangladesh</h3>
 
 ---
 
-🌟 **About Me**
+## 🌟 About Me
 
-I’m an enthusiastic undergraduate student with a deep passion for **front-end development** and **programming**. I specialize in crafting responsive, user-friendly web interfaces and continually expand my knowledge in languages and frameworks such as **HTML, CSS, JavaScript, Python, and Java**.
+🎓 I'm an enthusiastic **undergraduate student** with a strong passion for **front-end development** and **software engineering**. I love turning ideas into responsive, elegant websites and apps using:
 
-Driven by curiosity and a love for problem-solving, I’m on a mission to develop seamless user experiences and visually engaging applications. I’m always excited to learn new technologies and collaborate on meaningful projects that make a difference.
+-  HTML, CSS, JavaScript for interactive UI/UX
+-  Python and Java for logical thinking & backend development
+-  C/C++ for strong programming fundamentals
+
+I’m always **eager to learn** and explore new technologies in the ever-evolving world of development. My goal is to build impactful digital experiences and contribute to real-world software solutions.
 
 ---
 
-🛠️ **Languages & Tools**
+## 🛠️ Skills & Tools
 
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" alt="Pandas" width="40" height="40"/></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" alt="NumPy" width="40" height="40"/></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
 ---
 
-🚀 **Currently Working On**
-- Building interactive and mobile-friendly **front-end projects**
-- Exploring **Python and Java** for back-end development and data processing
-- Learning **Firebase** and other modern development tools
+## 🚀 Currently Working On
+
+-  Building responsive **front-end web apps**
+-  Strengthening my **backend & OOP** concepts with Python & Java
+-  Exploring **Firebase**, **MySQL**, and version control with Git/GitHub
+-  Learning **Data Structures & Algorithms** to boost problem-solving
 
 ---
 
-🤝 **Let's Collaborate**
-Looking to connect and collaborate on:
-- Open-source contributions
-- Front-end and full-stack web development
-- Innovative software development ideas
+## 🤝 Let's Collaborate
+
+💬 I'm open to collaborating on:
+- 📦 Open-source projects
+- 🌟 Front-end / full-stack development
+- 🔍 Hackathons, coding events, and team-based learning
+
+If you have an exciting idea — let’s bring it to life together!
 
 ---
 
-📫 **Connect with Me**
+## 📫 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/RidwanSupon" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/md-ridwanur-r-mazumder-4a8298155/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/ridwan_supon/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<p align="center">
+  <a href="https://github.com/RidwanSupon" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/md-ridwanur-r-mazumder-4a8298155/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/ridwan_supon/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://twitter.com/MdRidwanur14044" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
 
-📊 **GitHub Stats**
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RidwanSupon&show_icons=true&theme=tokyonight" alt="Ridwan's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidwanSupon&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  <img src="https://streak-stats.demolab.com/?user=RidwanSupon&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RidwanSupon&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidwanSupon&layout=compact&theme=tokyonight&hide_border=true"/>
+  <br><br>
+  <img src="https://streak-stats.demolab.com/?user=RidwanSupon&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-✨ **Fun Fact**
+## ✨ Fun Fact
 
-> I believe that **continuous learning** and **consistent practice** are the keys to mastery. Keep growing, keep coding! 🚀
+💭 I believe in **continuous learning** and **building in public** — every project, no matter how small, is a step toward mastery.
 
 ---
 
-🚀 **Thanks for Visiting!**
+<p align="center">🚀 <b>Thank You for Visiting!</b> 🙌</p>
