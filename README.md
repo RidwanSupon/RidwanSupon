@@ -1,5 +1,5 @@
-<h1 align="center">✨ Hi there, I'm <span style="color:#38bdf8;">Ridwan</span> 👋</h1>
-<h3 align="center">🚀 Front-End Developer | 💻 Programming Enthusiast | 🌍 From Bangladesh</h3>
+<h1 align="center"> Hi there, I'm <span style="color:#38bdf8;">Ridwan</span> </h1>
+<h3 align="center"> Front-End Developer | 💻 Programming Enthusiast |  From Bangladesh</h3>
 
 ---
 
