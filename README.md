@@ -5,7 +5,7 @@
 
 ## 💼 Professional Profile
 
-🚀 **ASP.NET Developer** specializing in building robust enterprise solutions with .NET ecosystem. Passionate about crafting high-performance web applications using modern frameworks and cloud technologies. Committed to clean architecture and scalable backend systems.
+ **ASP.NET Developer** specializing in building robust enterprise solutions with .NET ecosystem. Passionate about crafting high-performance web applications using modern frameworks and cloud technologies. Committed to clean architecture and scalable backend systems.
 
 ---
 
