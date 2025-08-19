@@ -1,5 +1,11 @@
-<h1 align="center">Hi there, I'm <span style="color:#38bdf8;">Ridwan</span> 👋</h1>
 <h3 align="center">ASP.NET Developer | Full-Stack Specialist | From Bangladesh</h3>
+
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Ridwanur+Rahman+Mazumder;Passionate+Programmer;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....">
+</p>
+<div align="center">
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+</div>
 
 ---
 
