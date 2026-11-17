@@ -1,183 +1,124 @@
-<h3 align="center">Software Analyst | Business Analyst | Product Enthusiast | From Bangladesh 🇧🇩</h3>
+<h1 align="center">Ridwanur Rahman Mazumder</h1>
+
+<h3 align="center">Full Stack Developer · Software Analyst · Business Analyst</h3>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&width=500&height=28&lines=Hi👋+I'm+Ridwanur+Rahman+Mazumder;Software+Analyst+at+Appifly+BD+Limited;Business+Analysis+%7C+Product+Strategy;Transforming+Business+Ideas+into+Software;Always+Learning+Something+New...">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Laravel+%26+JavaScript;Software+Analyst+at+Appifly+BD+Limited;Turning+Business+Requirements+into+Working+Software;Building+SaaS%2C+ERP+%26+Business+Automation" alt="Typing SVG" />
 </p>
 
-<div align="center">
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="180px">
-</div>
-
----
-
-# 👨‍💻 About Me
-
-I'm **Ridwanur Rahman Mazumder**, currently working as a **Software Analyst** at **Appifly BD Limited**.
-
-I bridge the gap between business requirements and software development by gathering requirements, creating software documentation, preparing SRS documents, designing workflows, managing product features, and collaborating closely with development teams.
-
-I enjoy solving business problems through technology and continuously improving my knowledge in Software Engineering, Product Management, and System Analysis.
-
----
-
-# 💼 Current Role
-
-### Software Analyst
-
-### Responsibilities
-
-- Business Requirement Analysis
-- Software Requirement Specification (SRS)
-- Product Planning
-- Process Analysis
-- User Story Writing
-- Feature Documentation
-- Workflow Design
-- Bug Reporting & QA Coordination
-- Client Requirement Gathering
-- Developer Task Planning
-- API Requirement Analysis
-- Software Testing Support
-
----
-
-# 🚀 Currently Working On
-
-- Enterprise SaaS Products
-- ERP & Accounting Solutions
-- Task Management Systems
-- Inventory Management Software
-- Business Process Automation
-- Client Requirement Analysis
-- Product Documentation
-- Software Architecture Planning
-
----
-
-# 🛠 Technical Knowledge
-
-### Programming
-
 <p align="center">
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
+  <a href="https://www.linkedin.com/in/md-ridwanur-r-mazumder-4a8298155/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ridwansupon@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/RidwanSupon"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://img.shields.io/badge/Based%20in-Bangladesh-006A4E?style=flat-square" alt="Bangladesh"/>
 </p>
 
 ---
 
-# 📚 Business Analysis Skills
+## About Me
 
-- Requirement Gathering
-- Business Process Modeling
-- Functional Documentation
-- Software Requirement Specification (SRS)
-- UML Diagrams
-- Use Case Design
-- Flowchart Design
-- Wireframing
-- Product Roadmap
-- Feature Planning
-- Gap Analysis
-- User Story Mapping
-- Acceptance Criteria
-- Agile Methodology
-- Scrum
-- Software Testing
-- Bug Reporting
+I'm a **Full Stack Developer and Software Analyst** at **Appifly BD Limited**, working across the full product lifecycle — from gathering business requirements and writing SRS documents to designing databases, building APIs, and shipping production features.
+
+My strength is sitting on both sides of the table: I understand what the business needs, and I can build it. That combination lets me translate complex requirements into clean, maintainable software and keep development teams aligned with real business goals.
+
+- 💼 Full Stack Developer & Software Analyst at **Appifly BD Limited**
+- 🏗️ Building **SaaS, ERP, accounting, inventory and task-management** systems
+- 🔁 End-to-end ownership: requirements → architecture → development → QA → release
+- 🌱 Currently deepening my skills in **ASP.NET Core, Clean Architecture and Microservices**
 
 ---
 
-# 🎯 Interested In
+## What I Do
 
-- Software Analysis
-- Product Management
-- ERP Solutions
-- Enterprise Software
-- SaaS Products
-- AI in Business
-- Digital Transformation
-- System Design
-- Business Intelligence
-
----
-
-# 🌱 Currently Learning
-
-- ASP.NET Core
-- Clean Architecture
-- Software Architecture
-- Microservices
-- Product Strategy
-- Cloud Technologies
-- DevOps Fundamentals
+| Full Stack Development | Software & Business Analysis |
+| :--- | :--- |
+| Backend development with **PHP & Laravel** | Requirement gathering & stakeholder interviews |
+| RESTful API design & integration | Software Requirement Specification (SRS) |
+| Relational database design with **MySQL** | User stories & acceptance criteria |
+| Responsive front-end with **JavaScript, HTML & CSS** | Business process modeling & workflow design |
+| Authentication, roles & permissions | UML, use cases, flowcharts & wireframes |
+| Debugging, testing & performance tuning | Gap analysis, roadmaps & feature planning |
+| Deployment & production support | QA coordination & bug reporting |
 
 ---
 
-# 🤝 Let's Collaborate
+## Tech Stack
 
-I'm interested in collaborating on:
+**Backend**
 
-- Enterprise Software
-- ERP Development
-- SaaS Products
-- Product Strategy
-- Business Analysis
-- Startup Software
-- Open Source Projects
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+</p>
 
----
+**Frontend**
 
-# 📫 Connect With Me
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
 
-<p align="center">
+**Database**
 
-<a href="https://www.linkedin.com/in/md-ridwanur-r-mazumder-4a8298155/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
 
-<a href="mailto:ridwansupon@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+**Tools & Practices**
 
-<a href="https://github.com/RidwanSupon">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Agile"/>
+  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum"/>
+</p>
 
+**Currently Learning**
+
+<p>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+  <img src="https://img.shields.io/badge/Microservices-2C3E50?style=for-the-badge&logo=docker&logoColor=white" alt="Microservices"/>
+  <img src="https://img.shields.io/badge/Cloud_&_DevOps-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Cloud & DevOps"/>
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+## Currently Working On
+
+- **Enterprise SaaS products** — multi-tenant platforms for business customers
+- **ERP & accounting solutions** — finance, ledgers and reporting modules
+- **Inventory management software** — stock, purchasing and warehouse flows
+- **Task management systems** — team workflows, tracking and reporting
+- **Business process automation** — replacing manual work with reliable software
+
+---
+
+## Areas of Interest
+
+`Full Stack Development` · `Software Architecture` · `System Design` · `ERP Solutions` · `SaaS Products` · `Product Management` · `AI in Business` · `Digital Transformation` · `Business Intelligence`
+
+---
+
+## Let's Collaborate
+
+I'm open to working together on **enterprise software, ERP development, SaaS products, startup MVPs, product strategy** and **open-source projects**. If you have an idea that needs both a clear plan and solid code, feel free to reach out.
+
+---
+
+## GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RidwanSupon&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidwanSupon&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RidwanSupon&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidwanSupon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=RidwanSupon&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=RidwanSupon&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
 <p align="center">
-
-### 💭 "Great software begins with understanding the problem before writing the solution."
-
+  <i>"Great software begins with understanding the problem before writing the solution."</i>
 </p>
