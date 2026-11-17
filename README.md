@@ -91,6 +91,11 @@ My strength is sitting on both sides of the table: I understand what the busines
 - **Inventory management software** — stock, purchasing and warehouse flows
 - **Task management systems** — team workflows, tracking and reporting
 - **Business process automation** — replacing manual work with reliable software
+- **AI Tutor** — AI-powered personalized learning assistant
+- **Learning Management System (LMS)** — courses, lessons, assessments and student progress tracking
+- **Newspaper Portal** — news publishing platform with categories, editorial workflow and content management
+- **Doctor QR** — QR-based doctor profiles, appointments and patient access
+- **WhatsApp Automation** — chatbots, automated messaging and CRM workflows on WhatsApp
 
 ---
 
